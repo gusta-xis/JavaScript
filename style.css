@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+#formularioContainer {
+    margin-top: 20px;
+}
+
+.campoFormulario {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+input[type="text"], select {
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-top: 3px;
+}
